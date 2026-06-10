@@ -20,6 +20,8 @@ Inspiracją dla projektu była zabawka Furby, która reagowała na otoczenie, zm
 
 Całość ma na celu pokazanie, że podstawy sztucznej inteligencji można poznawać w sposób praktyczny, ciekawy i zrozumiały. Uczniowie, pracując z robotem Sharky, uczą się nie tylko programowania i podstaw elektroniki, ale również logicznego myślenia, rozwiązywania problemów oraz projektowania interakcji człowiek–maszyna. Projekt pokazuje też, że tworzenie działającego urządzenia wymaga połączenia wielu dziedzin: programowania, elektroniki, modelowania 3D, testowania oraz analizy błędów. Dzięki temu może być dobrym wprowadzeniem do bardziej zaawansowanych tematów związanych z robotyką, automatyką, projektowaniem technicznym, analizą danych i sztuczną inteligencją.
 
+Schemat podłączenia
+![Schemat](https://github.com/ZTS-PW/Shurby-/blob/main/Circuit.jpg)
 
 ## 📝 License
 
